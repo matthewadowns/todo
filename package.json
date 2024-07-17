@@ -1,5 +1,6 @@
 {
   "name": "todo",
+  "description": "Example Cloudflare Worker todo app using KV",
   "version": "0.0.0",
   "private": true,
   "scripts": {
