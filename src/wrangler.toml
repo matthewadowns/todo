@@ -1,0 +1,7 @@
+name = "todo"
+main = "index.js"
+compatibility_date = "2023-08-23"
+
+kv_namespaces = [
+  { binding = "EXAMPLE_TODOS", id = "65bb57a4dd934773bf3e1bbd0b63c0ea" }
+]
