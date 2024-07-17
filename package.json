@@ -6,6 +6,7 @@
   "scripts": {
     "deploy": "wrangler deploy",
     "dev": "wrangler dev",
+    "login":"wrangler login",
     "start": "wrangler dev"
   },
   "devDependencies": {
